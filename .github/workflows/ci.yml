@@ -1,4 +1,4 @@
-name: CI
+name: CI #hello
 on:
   pull_request:
     # The default types for pull_request are [ opened, synchronize, reopened ].
